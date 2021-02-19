@@ -1,2 +1,2 @@
 # E-commerce
-A complete E-commerce structure using Go
+A simple E-commerce structure using Go
